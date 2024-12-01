@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "17d9",
+      "username": "aytac",
+      "password": "1"
+    },
+    {
+      "id": "7e93",
+      "username": "aygun",
+      "password": "1"
+    },
+    {
+      "id": "e487",
+      "username": "aygun",
+      "password": "1"
+    },
+    {
+      "id": "743670",
+      "username": "aygun",
+      "password": "2",
+      "balance": 1000
+    },
+    {
+      "id": 947920,
+      "username": "aygun",
+      "password": "1",
+      "balance": 1000
+    }
+  ]
+}

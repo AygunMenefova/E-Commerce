@@ -1,0 +1,147 @@
+@media(max-width:425px) {
+    .menu {
+        position: absolute;
+        display: block;
+        margin-left: 300px;
+        margin-top: 20px;
+    }
+
+    .all-link {
+        display: flex;
+        flex-direction: column;
+        margin-top: 60px;
+    }
+
+    .display {
+        display: none;
+    }
+
+    .link {
+        font-size: 15px;
+    }
+
+    .icons {
+        margin-left: 150px;
+        margin-top: 30px;
+        display: flex;
+    }
+
+    .icon {
+        font-size: 20px;
+    }
+
+    .login {
+        width: 200%;
+    }
+
+    .register {
+        width: 200%;
+    }
+
+    .main {
+        width: 10px;
+
+    }
+
+    .form-div {
+        width: 400px;
+        margin-left: 400px;
+    }
+
+    .reg-btn {
+        margin-left: -90px;
+    }
+
+    .search {
+        width: 290px;
+        letter-spacing: none;
+    }
+    .img-border {
+        width: 150px;
+    }
+
+    .video {
+        display: none;
+    }
+
+    .carousell {
+        display: none;
+    }
+
+    .image {
+        margin-top: -10px;
+        width: 100%;
+        margin-left: -1px;
+        margin-top: 200px;
+    }
+
+    .image3 {
+        background-position: center;
+        background-size: cover;
+        width: 100%;
+        margin-left: -1px;
+    }
+
+    .all-products {
+        margin-top: 185px;
+        margin-left: 20px;
+        width: 90%;
+        font-size: 23px;
+    }
+
+    .all-basket {
+        display: flex;
+        flex-direction: column;
+        width: 60%;
+        margin-right: -10px;
+    }
+
+    .all-baskett {
+        display: flex;
+        flex-direction: column;
+        width: 90%;
+        margin-right: -100px;
+    }
+    .basket-text {
+        width: 90%;
+        margin-left: 12px;
+    }
+
+    .detail1 {
+        display: flex;
+        flex-direction: column;
+        width: 120%;
+        margin-left: -135px;
+    }
+
+    .product-detail-img {
+        width: 100%;
+    }
+
+    .detail-img {
+        width: 250px;
+        margin-left: -70px;
+    }
+
+    .all-text {
+        margin-top: 30px;
+        width: 270px;
+        margin-left: 10px;
+    }
+
+    .button {
+        width: 260px;
+    }
+
+    .basket-pricce {
+        margin-left: 10px;
+        width: 80%;
+    }
+
+    .btn-div {
+        margin-left: -50px;
+    }
+    .load{
+        margin-left: -590px;
+    }
+}

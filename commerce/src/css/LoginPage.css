@@ -1,0 +1,9 @@
+.login{
+    background-image: url('../images/resim2.jpeg');
+    background-image: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
